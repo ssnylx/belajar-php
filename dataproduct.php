@@ -1,24 +1,34 @@
 <?php
 $product = array(
     array(
-        "nama" => "Pasmina Plisket",
-        "harga" => 50000,
-        "des" => "Pashmina dengan bahan ceruty baby doll yang sangat nyaman ketika digunakan dan mudah dibentuk"
+        "nama" => "Ketoprak",
+        "harga" => 20000,
+        "des" => "Hidangan ini terdiri dari ketupat, tahu goreng, bihun, sayuran segar, dan saus kacang yang begitu merangsang selera."
     ),
     array(
-        "nama" => "Pasmina Silk",
-        "harga" => 55000,
-        "des" => "Kerudung model persegi panjang yang terbuat dari bahan silk (bahan kain dari serat halus yang mengkilap dan juga lembut)"
+        "nama" => "Asinan Betawi",
+        "harga" => 15000,
+        "des" => "Hidangan sayuran (tauge, kol, kentang, dan selada air) segar yang disajikan dengan saus kacang yang lezat."
     ),
     array(
-        "nama" => "Pasmina Kaos",
-        "harga" => 40000,
-        "des" => "Pashmina kaos terbuat dari bahan kaos yang umumnya mudah dibentuk mengikuti fitur wajah"
+        "nama" => "Nasi Uduk",
+        "harga" => 15000,
+        "des" => "Hidangan sarapan terkenal, nasi yang dimasak dengan santan, kemudian disajikan dengan lauk-pauk yang beraneka ragam."
     ),
     array(
-        "nama" => "Pasmina Crinkle",
-        "harga" => 40000,
-        "des" => "Jenis hijab panjang yang menggunakan bahan crinkle airflow sebagai bahan dasarnya"
+        "nama" => "Soto Betawi",
+        "harga" => 20000,
+        "des" => "Hidangan yang menggugah selera karena kuahnya terbuat dari santan yang lezat dan diisi dengan potongan daging sapi, hati, limpa, dan babat yang empuk."
+    ),
+    array(
+        "nama" => "Gado-gado",
+        "harga" => 15000,
+        "des" => "Hidangan ini menggabungkan kentang, tahu, tempe, dan kangkung yang disajikan dengan saus kacang yang lezat. Tidak lupa, tambahkan kerupuk dan telur rebusnya."
+    ),
+    array(
+        "nama" => "Soto Tangkar",
+        "harga" => 25000,
+        "des" => "Hidangan ini disajikan dengan ketupat, telur rebus, dan bawang goreng. Yang membuat Soto tangkar istimewa adalah potongan daging sapi yang besar dan lezat."
     )
 );
 ?>
